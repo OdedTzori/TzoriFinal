@@ -15,3 +15,8 @@ DevLog #2
 DevLog #3
 05/19/16
 -Following a tutorial to make a flappy bird game
+
+DevLog #4
+05/23/16
+-Still following tutorial to make game
+-Very buggy
