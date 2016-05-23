@@ -11,3 +11,7 @@ DevLog #2
 05/15/16
 -Made a simple app using text and buttons
 -Attempted to install it on my phone, failed
+
+DevLog #3
+05/19/16
+-Following a tutorial to make a flappy bird game
