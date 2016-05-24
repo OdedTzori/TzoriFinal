@@ -21,3 +21,8 @@ DevLog #4
 05/23/16
 -Still following tutorial to make game
 -Very buggy
+
+DevLog#5
+05/24/16
+-Following tutorial
+-Don't know how to solve bugs
